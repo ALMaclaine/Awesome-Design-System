@@ -105,9 +105,6 @@ https://24ways.org/2017/why-design-systems-fail/
 What I learned about leading a design system in 2017.
 https://publication.design.systems/what-i-learned-about-leading-a-design-system-in-2017-46b85e9d7eab
 
-Letter to a Junior Product Manager
-https://builttoadapt.io/letter-to-a-junior-product-manager-37b79bbe801e
-
 Tracking where your time went with Lego workstream visualisation
 https://code.joejag.com/2018/lego-workstream-visualisation.html
 
