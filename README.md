@@ -42,9 +42,6 @@ https://www.designbetter.co/design-systems-handbook/introducing-design-systems
 Design Systems are for People*
 https://publication.design.systems/design-systems-are-for-people-a484620b6988
 
-The People Layer 1.0*
-https://publication.design.systems/the-people-layer-1-0-5ce84942c4c0
-
 Distilling How We Think About Design Systems
 https://publication.design.systems/distilling-how-we-think-about-design-systems-b26432eefef9
 
