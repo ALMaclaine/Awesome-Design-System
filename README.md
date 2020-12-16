@@ -51,9 +51,6 @@ https://uxcellence.com/2017/design-systems-style-guides-pattern-libraries
 Design Systems vs. Pattern Libraries vs. Style Guides – What's the Difference?
 https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/
 
-The Component Cut-Up Workshop*
-https://medium.com/eightshapes-llc/the-component-cut-up-workshop-1378ae110517
-
 Tokens in Design Systems*
 https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421
 
