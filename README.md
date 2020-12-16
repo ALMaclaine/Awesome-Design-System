@@ -12,9 +12,6 @@ https://inclusive-components.design/
 Resources, links, references and articles on Design Systems*
 https://uxdesign.cc/resources-links-references-and-articles-on-design-systems-e8ab898e0ab5
 
-Get a master bundle of 35 “Design Thinking” templates for free*
-https://www.interaction-design.org/template-bundles/design-thinking
-
 You Front End Pre-Flight Check List*
 https://frontendchecklist.io/
 
