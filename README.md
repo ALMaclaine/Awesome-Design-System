@@ -51,9 +51,6 @@ https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-g
 Tokens in Design Systems*
 https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421
 
-Theo is a an abstraction for transforming and formatting Design Tokens*
-https://github.com/salesforce-ux/theo
-
 Managing Heading Levels In Design Systems*
 https://medium.com/@Heydon/managing-heading-levels-in-design-systems-18be9a746fa3
 
