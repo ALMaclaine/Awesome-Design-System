@@ -21,9 +21,6 @@ https://frontendchecklist.io/
 Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished*
 https://github.com/danielbayerlein/dashboard
 
-Open Source Guides*
-https://opensource.guide/
-
 Component Styling API: Thinking About Design Systems at 10,000 Feet
 http://mrmrs.github.io/writing/2018/06/18/component-styling-api/
 
