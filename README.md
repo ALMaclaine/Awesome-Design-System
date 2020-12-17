@@ -90,9 +90,6 @@ https://24ways.org/2017/why-design-systems-fail/
 What I learned about leading a design system in 2017.
 https://publication.design.systems/what-i-learned-about-leading-a-design-system-in-2017-46b85e9d7eab
 
-Tracking where your time went with Lego workstream visualisation
-https://code.joejag.com/2018/lego-workstream-visualisation.html
-
 How IBM is Training Its Workforce to Think Like Designers*
 http://fortune.com/2017/12/22/ibm-design-thinking/
 
