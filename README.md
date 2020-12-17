@@ -114,9 +114,6 @@ https://medium.com/@jessitron/the-origins-of-opera-and-the-future-of-programming
 Evidence Based Management
 https://www.slideshare.net/VALOZ/evidence-based-management
 
-Keep track of yourself is a good way to prioritize your workflow
-https://github.com/omidfi/moro
-
 Task Warrior*
 https://blog.djy.io/taskwarrior-where-have-you-been-all-my-life/
 
