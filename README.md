@@ -111,9 +111,6 @@ https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013
 the Origins of Opera and the Future of Programming*
 https://medium.com/@jessitron/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960
 
-Evidence Based Management
-https://www.slideshare.net/VALOZ/evidence-based-management
-
 Task Warrior*
 https://blog.djy.io/taskwarrior-where-have-you-been-all-my-life/
 
